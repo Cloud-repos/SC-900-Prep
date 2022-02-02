@@ -21,3 +21,7 @@ Winning Formula:
 4. Rinse and Repeat
 
 Check email to confirm that this training day got scheduled: [event](https://mktoevents.com/Microsoft+Event/311687/157-GQE-382)
+
+Day 4
+
+2/2/2022 Attended Microsoft on Demand training session. See slide deck [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)
