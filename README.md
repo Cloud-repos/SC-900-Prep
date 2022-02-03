@@ -20,8 +20,30 @@ Winning Formula:
 +
 4. Rinse and Repeat
 
-Check email to confirm that this training day got scheduled: [event](https://mktoevents.com/Microsoft+Event/311687/157-GQE-382)
-
 Day 4
 
 2/2/2022 Attended Microsoft on Demand training session. See slide deck [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm)
+
+2/3/2022 Registered to attend Microsoft Training 2-day [event for 2/7 & 8 ](https://mktoevents.com/Microsoft+Event/311687/157-GQE-382)
+Details about the event: Understand the fundamentals of security, compliance, and identity. Learn to apply your knowledge across cloud-based and related Microsoft services. Take the [Security, Compliance, and Identity Fundamentals certification exam](https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/)
+
+Planning ahead:
+
+
+2/7/2022 Attend Day one:
+
+Details:
+
+Part 1	
+
+* Introduction	
+* Describe Concepts of Security, Compliance, and Identity
+* Describe the Capabilitites of Microsoft Identity and Access Management Solutions	
+* Describe the Capabilitites of Microsoft Security Solutions (Segment 1 of 2)
+
+2/8/2022 Attend Day two: 
+Part 2
+
+* Introduction
+* Describe the Capabilitites of Microsoft Security Solutions (Segment 2 of 2)
+* Describe the Capabilitites of Microsoft Compliance Solutions
