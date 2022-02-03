@@ -75,6 +75,19 @@ Understanding Microsoft 365 Inside risk, eDiscovery, and audit capabilities
 Understanding Azure resource governance capabilities
 Preparing for the SC-900 exam
 
+Additional Resources in Microsoft Learn:  
+
+* [Concepts of security, compliance, and identity.](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/) 45 Minutes
+
+* [Capabilities of Microsoft identity and access management solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/) 1 hour and 28 minutes
+
+* [Capabilities of Microsoft security solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/) 2 hours 13 minutes
+
+* [Capabilities of Microsoft compliance solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/) 2 hours 27 minutes
+
+
+
+
 Planning ahead:
 
 
