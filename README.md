@@ -3,7 +3,7 @@
 Check for upcomming training [HERE](https://www.microsoft.com/partner-training/we?n=SC-900)
 
 Day 1
-1/29/2022 Registered for on-demand training - [SC-900: Security, Identity and Compliance Fundamentals (On-Demand VTS]()
+1/29/2022 Registered for on-demand training - [SC-900: Security, Identity and Compliance Fundamentals On-Demand Training](https://note.microsoft.com/WE-NOGEP-WBNR-FY22-09Sep-02-WEWC1973SC900SecurityIdentityandComplianceFundamentals-SRDEM81331_LP02OnDemandRegistration-ForminBody.html)
 
 Day 2
 1/30/2022 Reached out to someone who recently passed this certification for advice: Offered advice about [practice exam for SC 900]( https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSulJ)
