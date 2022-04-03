@@ -28,49 +28,44 @@ Details about the event: Understand the fundamentals of security, compliance, an
 
 Today, I also found these additional On [demand viewing](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-security-compliance-and-identity-fundamentals-sc-900#/) training sessions which include: This PATH was updated on 2/2/2022 Details: In this SC-900 Exam Prep course, you will learn about core concepts, principles, and methodologies that are foundational to Security, Compliance, and Identity solutions, and about threats and how to protect against them. You will also learn about Microsoft Azure Active Directory and its use as the tool for identity and access management in the Microsoft cloud. You will also learn about the capabilities of Microsoft security solutions, including the network and platform capabilities of Azure, Azure security management, and Microsoft Sentinel. You will also learn about Microsoft compliance solutions, including compliance center, information protection and governance in Microsoft 365, insider risk, audit, and e-discovery solutions.
 
-Sessions:
+This on-demand training includes 4 Sessions: 
 
 * 1: [Security, compliance, and identity basics](https://note.microsoft.com/US-NOGEP-WBNR-FY22-01Jan-26-MicrosoftSecurityComplianceandIdentityfundamentalsSC900SecurityComplianceandIdentityBasics-SRDEM100749-01_LP02OnDemandRegistration-ForminBody.html)
 Learn about Microsoft Defender, identity services, and compliance.
-Agenda
-
-Introduction to Microsoft identities and their methodologies.
-
-Introduction to the identity services and identity types of Azure Active Directory
-
-Introduction to Microsoft Security and its methodologies
-
-Introduction to Microsoft defender and Intune
-
-Introduction to Microsoft compliance and its methodologie
+   
+      Agenda for session 1:
+      Introduction to Microsoft identities and their methodologies.
+      Introduction to the identity services and identity types of Azure Active Directory
+      Introduction to Microsoft Security and its methodologies
+      Introduction to Microsoft defender and Intune
+      Introduction to Microsoft compliance and its methodologie
 
 * 2: [Microsoft identity and access management solution capabilities](https://note.microsoft.com/US-NOGEP-WBNR-FY22-01Jan-26-MicrosoftSecurityComplianceandIdentityfundamentalsSC900Microsoftidentityandaccess-SRDEM100749-02_LP02OnDemandRegistration-ForminBody.html)
 
-Agenda:
-
-Understanding the basic identity services and types of Azure Active Directory
-Understanding authentication and access management capabilities of Azure Active Directory
-Understanding identity protection and governance capabilities of Azure Active Directory
+      Agenda for session 2:
+      Understanding the basic identity services and types of Azure Active Directory
+      Understanding authentication and access management capabilities of Azure Active Directory
+      Understanding identity protection and governance capabilities of Azure Active Directory
 
 * 3: [Microsoft security solution capabilities](https://note.microsoft.com/US-NOGEP-WBNR-FY22-01Jan-26-MicrosoftSecurityComplianceandIdentityfundamentalsSC900Microsoftsecuritysolutioncapabilities-SRDEM100749-03_LP02OnDemandRegistration-ForminBody.html)
 Learn about Azure Sentinel and Azure Security capabilities.
 
-Agenda:
-Understanding Azure Security capabilities
-Understanding Azure Security management capabilities
-Understanding Azure Sentinel security capabilities
-Understanding the threat protection and security management capabilities of Microsoft 365
-Understanding Intune endpoint security
+      Agenda for session 3:
+      Understanding Azure Security capabilities
+      Understanding Azure Security management capabilities
+      Understanding Azure Sentinel security capabilities
+      Understanding the threat protection and security management capabilities of Microsoft 365
+      Understanding Intune endpoint security
 
 * 4: [Microsoft compliance solution capabilities](https://note.microsoft.com/US-NOGEP-WBNR-FY22-01Jan-26-MicrosoftSecurityComplianceandIdentityfundamentalsSC900Microsoftcompliancesolutioncapabilities-SRDEM100749-04_LP02OnDemandRegistration-ForminBody.html)
 Learn about compliance management and information protection.
 
-Agenda:
-Understanding Microsoft compliance management capabilities
-Understanding Microsoft 365 information protection and governance capabilities
-Understanding Microsoft 365 Inside risk, eDiscovery, and audit capabilities
-Understanding Azure resource governance capabilities
-Preparing for the SC-900 exam
+      Agenda for session 4:
+      Understanding Microsoft compliance management capabilities
+      Understanding Microsoft 365 information protection and governance capabilities
+      Understanding Microsoft 365 Inside risk, eDiscovery, and audit capabilities
+      Understanding Azure resource governance capabilities
+      Preparing for the SC-900 exam
 
 Additional Resources in Microsoft Learn:  
 
@@ -83,25 +78,21 @@ Additional Resources in Microsoft Learn: 
 * [Capabilities of Microsoft compliance solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/) 2 hours 27 minutes
 
 
+Day 5 
 
+4/3/2022 Update: Something came up and I was not able to attend ehte 2/7-8 Microsoft Training Days. I had annotated the details for each of the training days. Which I will keep here for reference. I have also looked up the [upcomming training days](https://training-days-en-ie-staging.azurewebsites.net/en-ie/training-days/security/security-compliance-and-identity-fundamentals#security), but I will not register until later when I know for sure I can attend. 
+    
+    Details for Microsoft Training Day one:
+    * Introduction	
+    * Describe Concepts of Security, Compliance, and Identity
+    * Describe the Capabilitites of Microsoft Identity and Access Management Solutions	
+    * Describe the Capabilitites of Microsoft Security Solutions (Segment 1 of 2)
 
-Planning ahead:
+    Details for Microsoft Training Day two:
+    * Introduction
+    * Describe the Capabilitites of Microsoft Security Solutions (Segment 2 of 2)
+    * Describe the Capabilitites of Microsoft Compliance Solutions
 
+Additional resource:
 
-2/7/2022 Attend Day one:
-
-Details:
-
-Part 1	
-
-* Introduction	
-* Describe Concepts of Security, Compliance, and Identity
-* Describe the Capabilitites of Microsoft Identity and Access Management Solutions	
-* Describe the Capabilitites of Microsoft Security Solutions (Segment 1 of 2)
-
-2/8/2022 Attend Day two: 
-Part 2
-
-* Introduction
-* Describe the Capabilitites of Microsoft Security Solutions (Segment 2 of 2)
-* Describe the Capabilitites of Microsoft Compliance Solutions
+LinkedIn Learning offers 1 course: [Exam Prep: Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://www.linkedin.com/learning/exam-prep-microsoft-security-compliance-and-identity-fundamentals-sc-900/azure-certification-for-advancement?autoplay=true&u=74416004) Duration 1 hour 38 minutes. Released 11/4/2021
