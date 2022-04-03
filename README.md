@@ -13,8 +13,8 @@ Day 3
 
 Winning Formula:
 1. Read the Microsoft Security, Compliance, and Identify Fundamentals Exam Ref SC-900 book
-2. Complete the Microsoft Learning Path (https://lnkd.in/gjjtsj2a)
-3. Watch John Savill's SC-900 exam cram (https://lnkd.in/g7dsNujY)
+2. Complete the Microsoft Learning Path (https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
+3. Watch John Savill's SC-900 exam cram (https://www.youtube.com/watch?v=Bz-8jM3jg-8)
 4. Rinse and Repeat
 
 Day 4
