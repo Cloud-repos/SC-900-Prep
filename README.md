@@ -96,3 +96,6 @@ Day 5
 Additional resource:
 
 LinkedIn Learning offers 1 course: [Exam Prep: Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://www.linkedin.com/learning/exam-prep-microsoft-security-compliance-and-identity-fundamentals-sc-900/azure-certification-for-advancement?autoplay=true&u=74416004) Duration 1 hour 38 minutes. Released 11/4/2021
+
+
+Adding for [SC-100](https://ourcloudnetwork.com/sc-100-exam-study-guide-microsoft-cybersecurity-architect/) 
