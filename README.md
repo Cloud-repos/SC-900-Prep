@@ -99,3 +99,6 @@ LinkedIn Learning offers 1 course: [Exam Prep: Microsoft Security, Compliance, a
 
 
 Adding for [SC-100](https://ourcloudnetwork.com/sc-100-exam-study-guide-microsoft-cybersecurity-architect/) 
+
+
+Excellent resource from [Our Cloud Network](https://ourcloudnetwork.com/the-best-azure-security-certification-guide/)
