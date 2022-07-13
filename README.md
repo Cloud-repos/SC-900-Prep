@@ -97,3 +97,30 @@ Additional resource:
 
 LinkedIn Learning offers 1 course: [Exam Prep: Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://www.linkedin.com/learning/exam-prep-microsoft-security-compliance-and-identity-fundamentals-sc-900/azure-certification-for-advancement?autoplay=true&u=74416004) Duration 1 hour 38 minutes. Released 11/4/2021
 
+Day 6
+
+7/13/2022 Registered to attend Microsoft Training Days
+Tuesday, July 26, 2022 11:00 AM - 1:45 PM | (GMT-08:00) Pacific Time (US & Canada)
+Wedneday, July 27, 2022 11:00 AM - 1:00 PM | (GMT-08:00) Pacific Time (US & Canada)
+
+Registered for on-demand training: WEWC1973 SC-900: Security, Identity and Compliance Fundamentals.
+
+About this on-demand session: In this session we take a quick look into the technical topics covered in SC-900 Exam including core concepts, principles, and methodologies that are foundational to security, compliance, and identity solutions, and about threats and how to protect against them. You will then learn about Microsoft Azure Active Directory (Azure AD) as the tool for identity and access management in the Microsoft cloud and more about the capabilities of Microsoft security solutions. This will include network and platform capabilities of Azure, Azure security management, and Sentinel. Toward the end, you will learn about compliance solutions in Microsoft that will include compliance center, information protection and governance in Microsoft 365, insider risk, audit, and e-discovery solutions.  
+
+This session will also help you preparing for the Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals certification exam.
+
+Pre-Requisites:  
+
+If preparing for your SC-900 Security, Compliance, and Identity Fundamentals, we highly recommend watching the On-Demand VTS before attending the training: [Microsoft Security, Compliance and identity fundamentals](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-security-compliance-and-identity-fundamentals-sc-900#/)
+
+
+Additional Resources in Microsoft Learn:  
+
+    [Concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/) 2 Modules.
+
+    [Capabilities of Microsoft identity and access management solutions](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/) 4 Modules.
+
+    [Capabilities of Microsoft security solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/) 4 Modules.
+
+    [Capabilities of Microsoft compliance solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/) 6 Modules.
+
