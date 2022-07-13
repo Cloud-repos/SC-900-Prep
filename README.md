@@ -124,3 +124,9 @@ Additional Resources in Microsoft Learn: 
 
    [Capabilities of Microsoft compliance solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/) 6 Modules.
 
+
+Adding resources:
+
+ [Certification Study Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81) 
+
+ [Sample questions](https://docs.microsoft.com/en-us/learn/certifications/resources/sc-900-sample-questions?azure-portal=true)
