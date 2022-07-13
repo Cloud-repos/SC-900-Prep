@@ -116,11 +116,11 @@ If preparing for your SC-900 Security, Compliance, and Identity Fundamentals, 
 
 Additional Resources in Microsoft Learn:  
 
-    [Concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/) 2 Modules.
+   [Concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/) 2 Modules.
 
-    [Capabilities of Microsoft identity and access management solutions](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/) 4 Modules.
+   [Capabilities of Microsoft identity and access management solutions](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-identity-access/) 4 Modules.
 
-    [Capabilities of Microsoft security solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/) 4 Modules.
+   [Capabilities of Microsoft security solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-security-solutions/) 4 Modules.    
 
-    [Capabilities of Microsoft compliance solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/) 6 Modules.
+   [Capabilities of Microsoft compliance solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/) 6 Modules.
 
