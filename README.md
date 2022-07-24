@@ -130,3 +130,7 @@ Adding resources:
  [Certification Study Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81) 
 
  [Sample questions](https://docs.microsoft.com/en-us/learn/certifications/resources/sc-900-sample-questions?azure-portal=true)
+ 
+ Adding resource:
+
+[4 hour study guide from A Guide To Cloud](https://www.linkedin.com/posts/aguidetocloud_microsoft-security-compliance-and-identity-activity-6956781455603638272-8Kro?utm_source=linkedin_share&utm_medium=member_desktop_web)
