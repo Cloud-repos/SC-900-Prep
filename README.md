@@ -124,6 +124,7 @@ Additional Resources in Microsoft Learn: 
 
    [Capabilities of Microsoft compliance solutions.](https://docs.microsoft.com/en-us/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/) 6 Modules.
 
+Day 7
 
 Adding resources:
 
@@ -134,3 +135,16 @@ Adding resources:
  Adding resource:
 
 [4 hour study guide from A Guide To Cloud](https://www.linkedin.com/posts/aguidetocloud_microsoft-security-compliance-and-identity-activity-6956781455603638272-8Kro?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+Day 8 7/26/2022
+
+Attending Part 1 of Microsoft Security Virtual Training Day.
+
+Describe Concepts of Security, Compliance, and Identity. 
+
+Descirbe the capabilities of Microsoft Identity and Access Management Solutions.
+
+Describe the capabilities of Microsoft Security Solutions (Segment 1 of 2)
+
+
+
