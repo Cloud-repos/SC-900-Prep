@@ -146,5 +146,7 @@ Descirbe the capabilities of Microsoft Identity and Access Management Solutions.
 
 Describe the capabilities of Microsoft Security Solutions (Segment 1 of 2)
 
+Day 9 7/27/2022
 
+Completed Part 2 of the Microsoft Security Virtual Training Day. 
 
