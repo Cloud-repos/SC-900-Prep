@@ -150,3 +150,7 @@ Day 9 7/27/2022
 
 Completed Part 2 of the Microsoft Security Virtual Training Day. 
 
+Day 10 7/30/2022  Begin Microsoft Learn Path for this certification.
+
+Complete module [Describe security and compliance concepts](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/)
+
