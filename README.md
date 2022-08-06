@@ -152,7 +152,7 @@ Completed Part 2 of the Microsoft Security Virtual Training Day.
 
 Day 10 7/30/2022  Begin Microsoft Learn Path for this certification. [Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
 
-Part 1:  Describe the concepts of security, compliance, and identity
+Part 1: Describe the concepts of security, compliance, and identity
 
 Two modules: Describe Security and compliance concepts & Describe identiy concepts
 
@@ -162,7 +162,7 @@ Day 11 8/6/2022
 
 Today I will finish the second module in Part 1 and begin Part 2 of this path.
 
-Complete:[Describe identity concepts](https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/)
+Complete: [Describe identity concepts](https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/)
 
 Part 2 Describe the capabilities of Microsoft Identity and access management solutions. 
 
