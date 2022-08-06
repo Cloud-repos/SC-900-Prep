@@ -6,7 +6,7 @@ Day 1
 1/29/2022 Registered for on-demand training - [SC-900: Security, Identity and Compliance Fundamentals On-Demand Training](https://note.microsoft.com/WE-NOGEP-WBNR-FY22-09Sep-02-WEWC1973SC900SecurityIdentityandComplianceFundamentals-SRDEM81331_LP02OnDemandRegistration-ForminBody.html)
 
 Day 2
-1/30/2022 Reached out to someone who recently passed this certification for advice: Offered advice about [practice exam for SC 900]( https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSulJ)
+1/30/2022 Reached out to someone who recently passed this certification for advice: provided the link for the following: [Practice exam for SC 900]( https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSulJ)
 
 Day 3
 1/31/2022 Found new materials recommended [here:](https://www.linkedin.com/posts/eduardobaez_cloud-sc900-az104-activity-6894084986702585856-E8xI) 
@@ -80,7 +80,7 @@ Additional Resources in Microsoft Learn: 
 
 Day 5 
 
-4/3/2022 Update: Something came up and I was not able to attend ehte 2/7-8 Microsoft Training Days. I had annotated the details for each of the training days. Which I will keep here for reference. I have also looked up the [upcomming training days](https://training-days-en-ie-staging.azurewebsites.net/en-ie/training-days/security/security-compliance-and-identity-fundamentals#security), but I will not register until later when I know for sure I can attend. 
+4/3/2022 Update: Something came up and I was not able to attend the 2/7-8 Microsoft Training Days. I had annotated the details for each of the training days. Which I will keep here for reference. I have also looked up the [upcomming training days](https://training-days-en-ie-staging.azurewebsites.net/en-ie/training-days/security/security-compliance-and-identity-fundamentals#security), but I will not register until later when I know for sure I can attend. 
     
     Details for Microsoft Training Day one:
     * Introduction	
