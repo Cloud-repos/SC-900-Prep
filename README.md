@@ -150,7 +150,27 @@ Day 9 7/27/2022
 
 Completed Part 2 of the Microsoft Security Virtual Training Day. 
 
-Day 10 7/30/2022  Begin Microsoft Learn Path for this certification.
+Day 10 7/30/2022  Begin Microsoft Learn Path for this certification. [Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity](https://docs.microsoft.com/en-us/learn/paths/describe-concepts-of-security-compliance-identity/)
 
-Complete module [Describe security and compliance concepts](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/)
+Part 1:  Describe the concepts of security, compliance, and identity
+
+Two modules: Describe Security and compliance concepts & Describe identiy concepts
+
+Completed module [Describe security and compliance concepts](https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/)
+
+Day 11 8/6/2022 
+
+Today I will finish the second module in Part 1 and begin Part 2 of this path.
+
+Complete:[Describe identity concepts](https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/)
+
+Part 2 Describe the capabilities of Microsoft Identity and access management solutions. 
+
+There are 4 modules in part 2: Describe the services and identity types of Azure AD, Describe the authentication capabilities of Azure AD, Describe the access management capabilities of Azure AD, and Describe the identity protection and governance capabilities of Azure AD.
+
+Complete module: [Describe the services and identity types of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/)
+
+
+
+
 
