@@ -162,15 +162,17 @@ Day 11 8/6/2022
 
 Today I will finish the second module in Part 1 and begin Part 2 of this path.
 
-Complete: [Describe identity concepts](https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/)
+Completed: [Describe identity concepts](https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/)
 
 Part 2 Describe the capabilities of Microsoft Identity and access management solutions. 
 
 There are 4 modules in part 2: Describe the services and identity types of Azure AD, Describe the authentication capabilities of Azure AD, Describe the access management capabilities of Azure AD, and Describe the identity protection and governance capabilities of Azure AD.
 
-Complete module: [Describe the services and identity types of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/)
+Completed module: [Describe the services and identity types of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/)
 
 
+Day 12 8/7/2022 Continue working on Microsoft Learning Path Part 2 
 
+Complete module: [Describe the authentication capabilities of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/)
 
 
