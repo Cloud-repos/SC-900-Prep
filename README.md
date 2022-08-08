@@ -173,6 +173,8 @@ Completed module: [Describe the services and identity types of Azure AD](https:/
 
 Day 12 8/7/2022 Continue working on Microsoft Learning Path Part 2 
 
-Complete module: [Describe the authentication capabilities of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/)
+Completed module: [Describe the authentication capabilities of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/)
+
+Complete module: [Describe the access management capabilities of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/)
 
 
