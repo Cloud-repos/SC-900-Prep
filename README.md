@@ -181,7 +181,7 @@ Completed module: [Describe the identity protection and governance capabilities 
 
 Day 13 8/8/2022 Start Part 3 of the Microsoft Learning Path
 
-Complete modules: 
+Completed modules: 
 
 [Describe basic security capabilities in Azure](https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/)
 
