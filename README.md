@@ -179,4 +179,13 @@ Completed module: [Describe the access management capabilities of Azure AD](http
 
 Completed module: [Describe the identity protection and governance capabilities of Azure AD](https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/)
 
+Day 13 8/8/2022 Start Part 3 of the Microsoft Learning Path
+
+Complete modules: 
+
+[Describe basic security capabilities in Azure](https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/)
+
+[Describe security management capabilities of Azure](https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/)
+
+
 
