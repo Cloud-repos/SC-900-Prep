@@ -177,4 +177,6 @@ Completed module: [Describe the authentication capabilities of Azure AD](https:/
 
 Completed module: [Describe the access management capabilities of Azure AD](https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/)
 
+Completed module: [Describe the identity protection and governance capabilities of Azure AD](https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/)
+
 
