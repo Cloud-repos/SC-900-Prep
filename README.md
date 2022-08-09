@@ -187,5 +187,9 @@ Completed modules:
 
 [Describe security management capabilities of Azure](https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/)
 
+Day 14 8/9/2022 
 
+Complete modules:
+
+[Describe security capabilities of Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/)
 
