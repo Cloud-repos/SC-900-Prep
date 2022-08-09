@@ -193,3 +193,4 @@ Complete modules:
 
 [Describe security capabilities of Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/)
 
+[Describe threat protection with Microsoft 365 Defender](https://docs.microsoft.com/en-us/learn/modules/describe-threat-protection-with-microsoft-365-defender/)
