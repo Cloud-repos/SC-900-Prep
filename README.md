@@ -189,8 +189,12 @@ Completed modules:
 
 Day 14 8/9/2022 
 
-Complete modules:
+Completed modules:
 
 [Describe security capabilities of Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/)
 
 [Describe threat protection with Microsoft 365 Defender](https://docs.microsoft.com/en-us/learn/modules/describe-threat-protection-with-microsoft-365-defender/)
+
+Day 15 8/10/2022
+
+Completed module: [Describe the Service Trust Portal and privacy at Microsoft](https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft/)
