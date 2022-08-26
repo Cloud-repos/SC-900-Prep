@@ -201,8 +201,12 @@ Completed module: [Describe the Service Trust Portal and privacy at Microsoft](h
 
 Day 16 8/14/2022
 
-Complete modules:
+Completed modules:
 
 [Describe the compliance management capabilities in Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-compliance-management-capabilities-microsoft-365/)
 
 [Describe information protection and data lifecycle management in Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-information-protection-governance-capabilities-microsoft-365/)
+
+Day 17 8/26/2022
+
+Complete module: [Describe insider risk capabilities in Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-insider-risk-capabilities-microsoft-365/)
