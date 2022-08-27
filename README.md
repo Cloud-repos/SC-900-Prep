@@ -209,4 +209,10 @@ Completed modules:
 
 Day 17 8/26/2022
 
-Complete module: [Describe insider risk capabilities in Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-insider-risk-capabilities-microsoft-365/)
+Completed module: [Describe insider risk capabilities in Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-insider-risk-capabilities-microsoft-365/)
+
+Day 18 8/27/2022
+
+Reviewed previous modules and continued in the learning path.
+
+Complete module: [Describe the eDiscovery and audit capabilities of Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-ediscovery-capabilities-of-microsoft-365/)
