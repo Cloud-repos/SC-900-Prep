@@ -229,4 +229,4 @@ Modules include:
 
 [Describe basic cybersecurity threats, attacks, and mitigations](https://docs.microsoft.com/en-us/learn/modules/describe-basic-cybersecurity-threats-attacks-mitigations/)
 
-
+[Describe concepts of cryptography](https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-cryptography/)
