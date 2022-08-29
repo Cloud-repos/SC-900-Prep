@@ -219,6 +219,8 @@ Completed module: [Describe the eDiscovery and audit capabilities of Microsoft P
 
 Day 19 8/29/2022
 
-Comlete modules:
+Comleted modules:
 
-[Describe resource governance capabilities in Azure](https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/)
+[Describe resource governance capabilities in Azure](https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/) 
+
+All of the modules for [Describe the basic concepts of cybersecurity](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
