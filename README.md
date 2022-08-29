@@ -233,3 +233,5 @@ Modules include:
 
 [Describe authentication and authorization in cybersecurity](https://docs.microsoft.com/en-us/learn/modules/describe-authentication-authorization-cybersecurity/)
 
+[Describe network-based threats and mitigations](https://docs.microsoft.com/en-us/learn/modules/describe-network-based-threats-mitigations/)
+
