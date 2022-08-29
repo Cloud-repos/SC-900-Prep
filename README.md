@@ -230,3 +230,6 @@ Modules include:
 [Describe basic cybersecurity threats, attacks, and mitigations](https://docs.microsoft.com/en-us/learn/modules/describe-basic-cybersecurity-threats-attacks-mitigations/)
 
 [Describe concepts of cryptography](https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-cryptography/)
+
+[Describe authentication and authorization in cybersecurity](https://docs.microsoft.com/en-us/learn/modules/describe-authentication-authorization-cybersecurity/)
+
