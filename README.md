@@ -237,3 +237,5 @@ Modules include:
 
 [Describe device-based threats and security controls](https://docs.microsoft.com/en-us/learn/modules/describe-device-based-threats-security-controls/)
 
+[Describe application-based threats and how to protect against them](https://docs.microsoft.com/en-us/learn/modules/describe-application-based-threats-security-controls/)
+
