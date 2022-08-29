@@ -215,4 +215,10 @@ Day 18 8/27/2022
 
 Reviewed previous modules and continued in the learning path.
 
-Complete module: [Describe the eDiscovery and audit capabilities of Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-ediscovery-capabilities-of-microsoft-365/)
+Completed module: [Describe the eDiscovery and audit capabilities of Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/describe-ediscovery-capabilities-of-microsoft-365/)
+
+Day 19 8/29/2022
+
+Comlete modules:
+
+[Describe resource governance capabilities in Azure](https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/)
