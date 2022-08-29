@@ -223,4 +223,10 @@ Comleted modules:
 
 [Describe resource governance capabilities in Azure](https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/) 
 
-All of the modules for [Describe the basic concepts of cybersecurity](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
+Complete all of the modules for [Describe the basic concepts of cybersecurity:](https://docs.microsoft.com/en-us/learn/paths/describe-basic-concepts-of-cybersecurity/)
+
+Modules include: 
+
+[Describe basic cybersecurity threats, attacks, and mitigations](https://docs.microsoft.com/en-us/learn/modules/describe-basic-cybersecurity-threats-attacks-mitigations/)
+
+
