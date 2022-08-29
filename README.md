@@ -235,3 +235,5 @@ Modules include:
 
 [Describe network-based threats and mitigations](https://docs.microsoft.com/en-us/learn/modules/describe-network-based-threats-mitigations/)
 
+[Describe device-based threats and security controls](https://docs.microsoft.com/en-us/learn/modules/describe-device-based-threats-security-controls/)
+
