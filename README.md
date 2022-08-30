@@ -239,3 +239,4 @@ Modules include:
 
 [Describe application-based threats and how to protect against them](https://docs.microsoft.com/en-us/learn/modules/describe-application-based-threats-security-controls/)
 
+Day 20 8/30/2022 Today I took took the certification exam and passed! View my [verified certificate](https://www.credly.com/badges/ce965c3b-ddc1-41e1-9de7-7f9d1043b9b4/public_url) on Credly.
