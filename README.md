@@ -85,17 +85,6 @@ Day 5
 
 4/3/2022 Update: Something came up and I was not able to attend the 2/7-8 Microsoft Training Days. I had annotated the details for each of the training days. Which I will keep here for reference. I have also looked up the [upcomming training days](https://training-days-en-ie-staging.azurewebsites.net/en-ie/training-days/security/security-compliance-and-identity-fundamentals#security), but I will not register until later when I know for sure I can attend. 
     
-    Details for Microsoft Training Day one:
-    * Introduction	
-    * Describe Concepts of Security, Compliance, and Identity
-    * Describe the Capabilitites of Microsoft Identity and Access Management Solutions	
-    * Describe the Capabilitites of Microsoft Security Solutions (Segment 1 of 2)
-
-    Details for Microsoft Training Day two:
-    * Introduction
-    * Describe the Capabilitites of Microsoft Security Solutions (Segment 2 of 2)
-    * Describe the Capabilitites of Microsoft Compliance Solutions
-
 Additional resource:
 
 LinkedIn Learning offers 1 course: [Exam Prep: Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://www.linkedin.com/learning/exam-prep-microsoft-security-compliance-and-identity-fundamentals-sc-900/azure-certification-for-advancement?autoplay=true&u=74416004) Duration 1 hour 38 minutes. Released 11/4/2021
